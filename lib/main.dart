@@ -94,6 +94,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
+              'COMMIT 2',
+            ),
+            Text(
               'TAMBON COUNTER:',
             ),
             Text(
